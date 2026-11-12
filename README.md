@@ -37,3 +37,4 @@ align="right"><font color="slate grey">I/ Một số thông tin cơ bản:</font
 target="_blank">
 <img src="c.jpg"width="80"
   alt="Logo facebook">
+</a>
